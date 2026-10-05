@@ -1,0 +1,8 @@
+# TestChimp Plans Marker
+
+This marker file identifies the `plans/` directory as the TestChimp test plans root.
+
+**Contents:**
+- `knowledge/policies/` — testing policies and environment setup guides
+- User stories and test scenarios (synced from TestChimp platform)
+- Events and requirements traceability

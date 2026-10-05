@@ -1,0 +1,9 @@
+# Placeholder for test specs
+# 
+# Test files will be created during test authoring phase.
+# Organize by feature area:
+#   - auth/
+#   - menu/
+#   - cart/
+#   - account/
+#   - delivery/
