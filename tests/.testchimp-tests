@@ -1,0 +1,27 @@
+# TestChimp SmartTests Marker
+
+This marker file identifies the `tests/` directory as the TestChimp SmartTests root for Playwright web automation.
+
+**Project Type:** `web`
+
+**Framework:** Playwright (TypeScript)
+
+**Target Application:** Milliways Angular SPA
+
+**Contents:**
+- Playwright test suites organized by feature
+- Page objects and fixture helpers
+- TestChimp reporter integration via `@testchimp/playwright`
+- Configuration files for local and CI execution
+
+**Quick Start:**
+
+```bash
+cd tests
+npm install
+npm run test:web         # Run all tests headless
+npm run test:web:headed  # Run with browser visible
+npm run test:web:debug   # Run with Playwright Inspector
+```
+
+See `../plans/knowledge/policies/run-qa.policy.md` for execution guidelines.
